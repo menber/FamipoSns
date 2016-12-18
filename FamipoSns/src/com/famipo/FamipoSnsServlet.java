@@ -8,7 +8,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * テンプレートサーブレット
- *
  */
 @SuppressWarnings("serial")
 public class FamipoSnsServlet extends HttpServlet {
